@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+    
+    
+}
+h3{
+    font-weight: bolder;
+}
+.forecast{
+    
+    font-size: .5em;
+}
+span{
+    font-size: 1.5em;
+}
+li:hover{
+    background-color:skyblue;
+    text-decoration: underline;
+}
