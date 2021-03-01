@@ -17,7 +17,7 @@ function find(c){
     }
     return 1;
 }
-var APIKey="a0aca8a89948154a4182dcecc780b513";
+var APIKey="6b6bdf63315d1e57591609d2266ef8ef";
 function displayWeather(event){
     event.preventDefault();
     if(searchCity.val().trim()!==""){
